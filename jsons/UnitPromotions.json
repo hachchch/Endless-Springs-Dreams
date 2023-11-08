@@ -1,0 +1,24 @@
+[
+        {
+                "name": "Heal Instantly",
+		"uniques": ["Heal this unit by [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
+		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine","Airship","Eude Fairy"],
+        "row": 0,
+        "column": 0
+        },
+        {
+                "name": "Dance of Sabbath",
+                "uniques": ["All healing effects doubled"],
+		"unitTypes": ["Eude Fairy"]
+        },
+        {
+                "name": "Selene's Genome",
+                "uniques": ["Heal this unit by [25] HP <upon being promoted>"],
+		"unitTypes": ["Eude Fairy"]
+        },
+        {
+                "name": "Depth Phonemes",
+                "uniques": ["[+1] Movement <for [8] turns>","[+1] Sight <for [8] turns>","Doing so will consume this opportunity to choose a Promotion"],
+                "unitTypes": ["Eude Fairy"]
+        }
+]
