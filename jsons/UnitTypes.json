@@ -1,0 +1,22 @@
+[
+        {
+                "name": "Eude Fairy",
+        "uniques": ["[-10]% Strength <vs [Enemy] units> <when defending>","[+10]% Strength <vs [Enemy] units> <when attacking>"],
+        "movementType": "Land"
+        },
+        {
+                "name": "Fire",
+        "uniques": ["[-33]% Strength <vs [Water] units>","[+33]% Strength <vs [Grass] units>"],
+        "movementType": "Land"
+    },
+    {
+        "name": "Water",
+        "uniques": ["[-33]% Strength <vs [Grass] units>","[+33]% Strength <vs [Fire] units>"],
+        "movementType": "Land"
+    },
+    {
+        "name": "Grass",
+        "uniques": ["[-33]% Strength <vs [Fire] units>","[+33]% Strength <vs [Water] units>"],
+        "movementType": "Land"
+    }
+]
