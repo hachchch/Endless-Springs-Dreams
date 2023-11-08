@@ -578,3 +578,16 @@ TileSets/FantasyHex/Units/Settler-hymenoptera
   orig: 32, 28
   offset: 0, 0
   index: -1
+
+game2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Eucia
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
