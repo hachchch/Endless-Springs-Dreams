@@ -21,7 +21,8 @@
 
 		"style": "fairy",
 		"uniqueName": "Spring Rain and Person of Flower",
-		"uniques": ["Free [Prelate] appears <upon entering a Golden Age>","Provides [5] [Mana]"],
+		"uniques": ["Free [Prelate] appears <upon entering a Golden Age>","Provides [5] [Mana]",
+		"Cannot build [Archery] units","Cannot build [Gunpowder] units","Cannot build [Mounted] units","Cannot build [Ranged Gunpowder] units","Cannot build [Scout] units","Cannot build [Sword] units"],
 		"outerColor": [84,123,38],
 		"innerColor": [238,239,176],
 		"cities": ["Eden","Arcadia","Campanella","Mondo","Kvadrato","Kvantuma","Kampo","Mi Faras","Apero"],
