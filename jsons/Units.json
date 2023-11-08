@@ -101,6 +101,7 @@
 		"range": 2,
 		"rangedStrength": 50,
 		"strength": 40,
+		"cost": 400,
 		"attackSound": "shot",
 		"requiredTech": "Economic Imperialism",
 		"uniques": ["[-75]% Strength <vs cities>",
