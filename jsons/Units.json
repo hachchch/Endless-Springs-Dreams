@@ -161,6 +161,7 @@
 		"uniqueTo": "Eucia",
 		"movement": 2,
 		"strength": 35,
+		"cost": 200,
 		"requiredTech": "Metallurgy",
 		"attackSound": "metalhit",
 	},
