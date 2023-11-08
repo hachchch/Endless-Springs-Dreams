@@ -2,7 +2,7 @@
         {
                 "name": "Heal Instantly",
 		"uniques": ["Heal this unit by [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
-		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine","Airship","Eude Fairy"],
+		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine","Airship","Eude Fairy","Fire","Water","Grass"],
         "row": 0,
         "column": 0
         },
@@ -19,6 +19,6 @@
         {
                 "name": "Depth Phonemes",
                 "uniques": ["[+1] Movement <for [8] turns>","[+1] Sight <for [8] turns>","Doing so will consume this opportunity to choose a Promotion"],
-                "unitTypes": ["Eude Fairy"]
+                "unitTypes": ["Eude Fairy","Grass","Fire","Water"]
         }
 ]
