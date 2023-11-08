@@ -5,7 +5,7 @@
 		"cost": 1000,
 		"movement": 2,
 		"uniqueTo": "Eucia",
-		"strength": 40,
+		"strength": 50,
 		"uniques" : ["[+100]% Strength <after discovering [Noblesse Oblige]>","[+1] Sight","Unbuildable","May withdraw before melee ([50]%)"],
 		"attackSound": "nonmetalhit",
 	},
