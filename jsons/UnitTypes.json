@@ -6,17 +6,20 @@
         },
         {
                 "name": "Fire",
-        "uniques": ["[-33]% Strength <vs [Water] units>","[+33]% Strength <vs [Grass] units>"],
+        "uniques": ["[-33]% Strength <vs [Water] units>","[+33]% Strength <vs [Grass] units>",
+        "[+33]% Strength <vs cities>","[-33]% Strength <vs [Armored] units>"],
         "movementType": "Land"
     },
     {
         "name": "Water",
-        "uniques": ["[-33]% Strength <vs [Grass] units>","[+33]% Strength <vs [Fire] units>"],
+        "uniques": ["[-33]% Strength <vs [Grass] units>","[+33]% Strength <vs [Fire] units>",
+        "[-33]% Strength <vs cities>","[+33]% Strength <vs [Armored] units>"],
         "movementType": "Land"
     },
     {
         "name": "Grass",
-        "uniques": ["[-33]% Strength <vs [Fire] units>","[+33]% Strength <vs [Water] units>"],
+        "uniques": ["[-33]% Strength <vs [Fire] units>","[+33]% Strength <vs [Water] units>",
+        "[+33]% Strength <vs [Gunpowder] units>","[-33]% Strength <vs [Siege] units>"],
         "movementType": "Land"
     }
 ]
