@@ -1,0 +1,29 @@
+[
+        {
+                "name": "Eucia",
+		"leaderName": "Gray Univen IX",
+		"adjective": ["Fairy"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "Eucian or Eude Fairies...",
+		"startIntroPart2": "They are winged primates that evolved as pollinator primates. Even men look like little girls, probably because they have more female hormones in the evolutionary process. But be very careful. They are more mischievous and sneaky than the monkeys that occasionally appear around town.",
+
+		"declaringWar": "We wants the flesh blood of humans!",
+		"attacked": "Well well... How you're barbarian, fool humans don't know How the Magiclear Power outrageous!",
+		"defeated": "It is over. Perhaps now I shall have extinction, at last.",
+		"introduction": "Are you human or something?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"style": "fairy",
+		"uniqueName": "Spring Rain and Person of Flower",
+		"uniques": ["They are winged primates that evolved as pollinator primates. Even men look like little girls, probably because they have more female hormones in the evolutionary process. But be very careful. They are more mischievous and sneaky than the monkeys that occasionally appear around town."],
+		"outerColor": [84,123,38],
+		"innerColor": [238,239,176],
+		"cities": ["Eden","Arcadia","Campanella","Mondo","Kvadrato","Kvantuma","Kampo","Mi Faras","Apero"],
+	}
+]
