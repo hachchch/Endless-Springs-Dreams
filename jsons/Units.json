@@ -6,7 +6,7 @@
 		"movement": 2,
 		"uniqueTo": "Eucia",
 		"strength": 40,
-		"uniques" : ["[+100]% Strength <after discovering [Nobblesse Oblige]>","[+1] Sight","Unbuildable","May withdraw before melee ([50]%)"],
+		"uniques" : ["[+100]% Strength <after discovering [Noblesse Oblige]>","[+1] Sight","Unbuildable","May withdraw before melee ([50]%)"],
 		"attackSound": "nonmetalhit",
 	},
 	{
@@ -54,6 +54,7 @@
 	},
 	{
 		"name": "Covalent Fairy",
+		"replaces": "Land Ironclad",
 		"unitType": "Eude Fairy",
 		"uniqueTo": "Eucia",
 		"requiredResource": "Mana",
